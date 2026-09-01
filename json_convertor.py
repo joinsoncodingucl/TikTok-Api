@@ -13,7 +13,7 @@ from pathlib import Path
 import pandas as pd
 
 # Input and output folders
-input_dir = Path("/mnt/c/Users/daniel/Desktop/20260723_ucl_tiktok_study")
+input_dir = Path("/mnt/c/Users/daniel/Desktop/20260806_ucl_tiktok_study")
 output_dir = Path("Imported_files")
 output_dir.mkdir(exist_ok=True)
 
