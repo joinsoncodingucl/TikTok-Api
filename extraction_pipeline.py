@@ -12,7 +12,7 @@ from math import ceil
 # -------------------------------------------------------------------
 
 ms_token = os.environ.get(
- "mENYTwoZbaLCL4LpbNh0PespUlB4XMiNROcOOBH6bdTTq9SYveGuWIUEoiOcp_zdEfkE2JRWHVLJKMckqO8_MGsxhY4SqMX2ABE6uKYNjy-ZJJrMPDrC1KPwX3Oyk9-RRDRLHLRACH33FQ==",
+ "TOKEN HERE",
     None
 )
 
