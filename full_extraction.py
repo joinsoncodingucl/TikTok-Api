@@ -13,7 +13,7 @@ import json
 # -------------------------------------------------------------------
 
 ms_token = os.environ.get(
-    "Up0vYny2vX38JAMhSccLxJUUdJtFxyvA4xx-sJCGwHbOeeni9LpaFlGWcriZN9qYyvRniLOkb3y_Gz8ghlP_IMIk72niCEGv7_2oGND99cq2HYTgj71ihyDTZo7ALQc-mHrPjDm_yuwcBK2bGaZIkKhBhQ==",
+    "TOKEN HERE",
     None
 )
 
